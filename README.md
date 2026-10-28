@@ -16,4 +16,4 @@ I help brands get clear on who they are and build the systems to grow. My work s
 
 ## Let's connect
 🌐 [thebluemass.com](https://thebluemass.com)
-💼 [LinkedIn]https://www.linkedin.com/in/joseph-eruaga/
+💼 https://www.linkedin.com/in/joseph-eruaga/
