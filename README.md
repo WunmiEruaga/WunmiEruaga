@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Wunmi Eruaga 👋
 
-<!--
-**WunmiEruaga/WunmiEruaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & CEO, Bluemass Marketing Inc. (Toronto) | Cybersecurity professional**
 
-Here are some ideas to get you started:
+I help brands get clear on who they are and build the systems to grow. My work spans brand strategy, design, and web development, and I'm a Webflow specialist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- **Brand management** built on the Brand Cardinals Framework: Story, Strategy, System, Security
+- **Webflow design and development** for brands and platforms
+- **Cybersecurity**, so the brands I build are protected as well as strong
+- **Systems and automation** that keep a business running without the chaos
+
+## What I'm working on
+- Building a Brand Diagnosis tool that scores brands against the Brand Cardinals Framework
+- Building an AI agent operating system for running my business and life
+
+## Let's connect
+🌐 [thebluemass.com](https://thebluemass.com)
+💼 [LinkedIn]https://www.linkedin.com/in/joseph-eruaga/
